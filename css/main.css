@@ -38,3 +38,37 @@ nav a:hover{
 	background: url("../img/semilla.jpg") center;
 	background-size: cover;
 }
+.frase-principal{
+	width: 100%;
+}
+.frase{
+	padding: 5%;
+}
+.cont-objetivo{
+	padding: 5%  0%;
+}
+.objetivo{
+	padding: 0% 5%;
+}
+.objetivo img{
+	width: 30%;
+}
+.img-metodologia{
+	width: 100%;
+	height: 400px;
+	background: url("../img/metodo.JPG");
+	background-size: cover;
+}
+.text-metodologia{
+	height: 400px;
+	background-size: cover;
+	background-image: url("../img/fondo.jpg");
+	padding: 50%  15%;
+	/*display: table-cell;*/
+}
+.text-metodologia img{
+	margin-top: 1.5%;
+}
+.text-metodologia h2{
+	margin: 2% 0%
+}
