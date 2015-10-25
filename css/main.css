@@ -122,3 +122,31 @@ article img{
 	top: 50%;
 	right: 1%;
 }
+.transicion-verde{
+	transition: background-color 2s;
+}
+.transicion-verde:hover{
+	background-color: #5E8039;
+}
+.red-social{
+	padding: 4% 0%;
+}
+.red-social .col-sm-3{
+/*	padding: 2% 6% 2% 3%;
+*/}
+.red-social p{
+	padding-bottom: 80%;
+}
+.red-social img{
+	width: 30%;
+	margin-left: 80%;
+}
+.mb{
+	margin-bottom: 8%;
+}
+.border{
+	border: 1px solid white;
+}
+footer{
+	padding: 3% 0% 2%;
+}
